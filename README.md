@@ -8,7 +8,7 @@ An Alfred workflow to translate French to English words using Linguee
 
 # Development
 
-Inspired by (https://github.com/alexander-heimbuch/linguee-alfred-workflow)[https://github.com/alexander-heimbuch/linguee-alfred-workflow]
+Inspired by [https://github.com/alexander-heimbuch/linguee-alfred-workflow](https://github.com/alexander-heimbuch/linguee-alfred-workflow)
 
 Use `env GOOS=darwin GOARCH=amd64 go build linguee.go` to compile the project.
 
