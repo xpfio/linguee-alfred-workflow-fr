@@ -15,3 +15,7 @@ Use `env GOOS=darwin GOARCH=amd64 go build linguee.go` to compile the project.
 ## Workflow
 
 ![alt src](workflow.png "Worflow Screenshot")
+
+## Who is it designed for?
+
+![alt src](target.png "Target")
